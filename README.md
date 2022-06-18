@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Natnael Mamuye
+- 👋 Hi, I’m Natnael Mamuye from Ethiopia 
 - 👀 I’m interested in python programming and machine learning algorithms 
 - 🌱 I’m currently learning different cources at Datacamp
 - 💞️ I’m looking to collaborate on statisctic related courses and machine learning models
